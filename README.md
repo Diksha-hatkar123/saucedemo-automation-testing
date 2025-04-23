@@ -24,4 +24,4 @@ pytest tests/ --html=report.html
 2. Add product to cart and go to cart page
 
 ## Author
-Your Name - Python Automation Fresher
+Diksha Hatkar - Python Automation Fresher
